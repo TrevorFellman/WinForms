@@ -1,0 +1,10 @@
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\bin\Debug\Winforms-Preformance-ComboBox.exe.config
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\bin\Debug\Winforms-Preformance-ComboBox.exe
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\bin\Debug\Winforms-Preformance-ComboBox.pdb
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\obj\Debug\Winforms-Preformance-ComboBox.csprojAssemblyReference.cache
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\obj\Debug\Winforms_Preformance_ComboBox.Form1.resources
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\obj\Debug\Winforms_Preformance_ComboBox.Properties.Resources.resources
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\obj\Debug\Winforms-Preformance-ComboBox.csproj.GenerateResource.cache
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\obj\Debug\Winforms-Preformance-ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\obj\Debug\Winforms-Preformance-ComboBox.exe
+C:\Users\tref\source\repos\Winforms\Winforms-Preformance-ComboBox\Winforms-Preformance-ComboBox\obj\Debug\Winforms-Preformance-ComboBox.pdb
